@@ -20,6 +20,18 @@ import { useStore } from 'vuex';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 
+// Import default Leaflet marker assets
+import iconRetinaUrl from 'leaflet/dist/images/marker-icon-2x.png';
+import iconUrl from 'leaflet/dist/images/marker-icon.png';
+import shadowUrl from 'leaflet/dist/images/marker-shadow.png';
+
+// Configure Leaflet to use the default marker assets
+L.Icon.Default.mergeOptions({
+  iconRetinaUrl,
+  iconUrl,
+  shadowUrl,
+});
+
 export default {
   name: 'Map',
   setup() {
