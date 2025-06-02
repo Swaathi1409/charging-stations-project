@@ -93,6 +93,18 @@ A full-stack application for managing electric vehicle charging stations, built 
   - Axios for API calls
   - Google Maps API
 
-## License
+## Screenshots:
 
-MIT 
+![image](https://github.com/user-attachments/assets/2455e3c7-6d2c-46ab-b9b5-cad57b3f9c72)
+
+![image](https://github.com/user-attachments/assets/482482b4-91d9-458a-a329-afbbce53ba32)
+
+![image](https://github.com/user-attachments/assets/b2d1792f-ef9a-4b1d-b49c-b3990a82efc2)
+
+![image](https://github.com/user-attachments/assets/8249c545-b071-457f-b559-3247ac20a0ee)
+
+![image](https://github.com/user-attachments/assets/d1ed4aae-b434-46dc-8a67-513cc83e05ea)
+
+
+
+
